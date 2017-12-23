@@ -14,7 +14,6 @@ struct Category {
     
     init(title: String, imageName: String) {
         self.title = title
-        self.imageName = imageName
-        
+        self.imageName = imageName        
     }
 }
